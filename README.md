@@ -4,5 +4,3 @@
 
 Frontend: **React, Redux, RTK, Next.js**;<br>
 Backend: **Express, Nest**;<br>
-
-Друзья: **CI\CD, Тестирование, Linters, Git, Figma** <br>
