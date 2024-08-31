@@ -46,4 +46,3 @@ My current tech stack:
 #### Contacts
 email: [shuvakhin@yandex.ru](mailto:shuvakhin@yandex.ru)</br>
 telegram: [shvkn1](https://t.me/shvkn1)
-</br></br>Open to being hired
