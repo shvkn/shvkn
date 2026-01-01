@@ -44,5 +44,5 @@ My current tech stack:
 </div>
 
 #### Contacts
-email: [shuvakhin@yandex.ru](mailto:shuvakhin@yandex.ru)</br>
+email: [shuvakhin@yandex.ru](mailto:ashuvakhin@yandex.ru)</br>
 telegram: [shvkn1](https://t.me/shvkn1)
